@@ -1,0 +1,45 @@
+Nordpolens årlig Tech Hackathon 2023
+
+(Bild som passar eventet - Hitta valfri på nätet som du får använda)
+
+Datum: 23 september 2023
+Tid: 09:00 - 21:00
+Plats: Tomteverkstan, Nordpolen
+
+Beskrivning:
+Gå med i Nordpolens årliga Tech Hackathon 2023! Detta är en fantastisk möjlighet för studenter, yrkesverksamma och kodningsentusiaster att visa sina kodningsfärdigheter, nätverka med branschfolk och vinna spännande priser. 
+Evenemanget kommer att inkludera kodningsutmaningar, workshops och gästtalare från topp teknikföretag. 
+Oavsett om du är en erfaren kodare eller precis börjar, välkomnar vi alla kompetensnivåer. Kom för att lära, koda och ha kul!
+
+Läs mer: Wikipedia: Hackaton (Länk: https://sv.wikipedia.org/wiki/Hackathon)
+
+Talare:
+1. Jane Doe - Seniorutvecklare på Tomtesoft Inc
+2. John Smith - CTO på Tomtesoft INC
+3. Maria Svensson - Grundare av startupen Red Nosed Reindeer
+
+Tema: Webbplatser för Lokala Föreningar
+
+I detta års hackathon kommer vi att fokusera på temat "Webbplatser för Lokala Föreningar". 
+Många lokala föreningar och ideella organisationer saknar resurser för att skapa och underhålla en effektiv webbplats. 
+Som nybörjare inom webbutveckling har du en fantastisk möjlighet att hjälpa dessa organisationer att nå ut till fler människor och göra en större inverkan.
+
+Programmeringstävling:
+
+Deltagarna kommer att utmanas att utveckla enkel, men effektiv webbplats för en fiktiv lokal förening. 
+Webbplatsen kan vara för en sportklubb, en konstgrupp, en välgörenhetsorganisation, eller någon annan typ av förening. 
+Webbplatsen bör innehålla grundläggande information om föreningen, en lista över kommande evenemang, och kontaktinformation.
+Vi ser fram emot att se vad du kan skapa!
+
+Första plats: 
+   - 10 000 SEK
+   - Ett års prenumeration av Tomtesoft 365
+
+Tillgängliga resurser på plats:
+Wi-Fi
+Mat och dryck
+Arbetsstationer
+
+Andra organisationer som håller Hackatons
+Hack for Sweden - Hack for Sweden är en plattform som arbetar med digitalisering och medborgardriven innovation. (Länk: https://hackforsweden.se/)
+Hack for Earth Foundation -  Hack for Earth Foundation är en ideell organisation, helt inriktad på att erbjuda alla människor på denna planet möjligheten att göra en positiv inverkan för vår framtida värld. (Länk: https://hackforearthfoundation.com/)
