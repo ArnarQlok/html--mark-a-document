@@ -6,7 +6,7 @@ I den här övningen kommer du att skapa en enkel händelsesida för den årliga
 
 1. Skapa filen `index.html` i din editor (t.ex. Visual Studio Code).
 2. Börja med den grundläggande HTML-mallen.
-3. Infoga texten från `events.txt`-filen inuti body-taggen och strukturera HTML-dokumentet genom att märka upp varje del med lämplig HTML-tagg.
+3. Infoga texten från `eventlista.txt`-filen inuti body-taggen och strukturera HTML-dokumentet genom att märka upp varje del med lämplig HTML-tagg.
 4. Utför en peer review med en klasskamrat för att kontrollera det uppmärkta dokumentet.
 5. Validera även HTML-dokumentet på https://validator.w3.org/. Var resultatet felfritt, eller avslöjade det andra fel/varningar?
 
